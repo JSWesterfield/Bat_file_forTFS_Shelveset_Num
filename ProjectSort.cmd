@@ -1,0 +1,1 @@
+cd;c:\sf.code\c34 & sortprojectitems /r
